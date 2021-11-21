@@ -1,2 +1,3 @@
 npm i -g @nestjs/cli
 nest new server
+$ npm i --save @nestjs/mongoose mongoose
