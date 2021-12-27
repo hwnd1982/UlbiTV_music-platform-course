@@ -1,3 +1,11 @@
-npm i -g @nestjs/cli
+/
+npm i -D @nestjs/cli
 nest new server
-$ npm i --save @nestjs/mongoose mongoose
+
+/server
+npm i -D @nestjs/mongoose mongoose
+npm i -D @types/multer
+npm i -D uuid
+npm i -D @nestjs/serve-static
+npm i -D reflect-metadata
+

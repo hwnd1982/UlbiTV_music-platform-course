@@ -1,0 +1,100 @@
+{
+  "context": {
+    "functions": {
+      "execute": {}
+    },
+    "runningAsSystem": {},
+    "user": {
+      "id": "",
+      "type": "system",
+      "custom_data": {},
+      "data": {},
+      "identities": []
+    },
+    "environment": {
+      "tag": "",
+      "values": {}
+    },
+    "request": {
+      "remoteIPAddress": "109.171.19.143",
+      "httpUserAgent": "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+      "webhookUrl": "https://eu-central-1.aws.webhooks.mongodb-realm.com/api/client/v2.0/app/insein-relax-app-jsjas/service/insein-relax-api/incoming_webhook/api",
+      "rawQueryString": "619b57d1b8313b2cf300a400",
+      "httpMethod": "GET",
+      "requestHeaders": {
+        "Sec-Fetch-User": [
+          "?1"
+        ],
+        "Sec-Fetch-Dest": [
+          "document"
+        ],
+        "Accept-Language": [
+          "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,fi;q=0.6,sv;q=0.5"
+        ],
+        "X-Forwarded-For": [
+          "109.171.19.143"
+        ],
+        "X-Forwarded-Proto": [
+          "https"
+        ],
+        "Cache-Control": [
+          "max-age=0"
+        ],
+        "Sec-Fetch-Mode": [
+          "navigate"
+        ],
+        "X-Request-Id": [
+          "70a824b1-efb9-4e78-99b6-d811dd3815c9"
+        ],
+        "X-Cluster-Client-Ip": [
+          "109.171.19.143"
+        ],
+        "Sec-Ch-Ua": [
+          "\"Google Chrome\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\""
+        ],
+        "Upgrade-Insecure-Requests": [
+          "1"
+        ],
+        "Sec-Ch-Ua-Mobile": [
+          "?0"
+        ],
+        "Sec-Ch-Ua-Platform": [
+          "\"Windows\""
+        ],
+        "User-Agent": [
+          "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+        ],
+        "Accept": [
+          "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+        ],
+        "Sec-Fetch-Site": [
+          "none"
+        ],
+        "Accept-Encoding": [
+          "gzip, deflate, br"
+        ],
+        "X-Envoy-External-Address": [
+          "109.171.19.143"
+        ]
+      },
+      "service": "insein-relax-api"
+    },
+    "http": {
+      "post": {},
+      "put": {},
+      "version": {
+        "$numberInt": "1"
+      },
+      "delete": {},
+      "head": {},
+      "patch": {},
+      "get": {}
+    },
+    "services": {
+      "get": {}
+    },
+    "values": {
+      "get": {}
+    }
+  }
+}
